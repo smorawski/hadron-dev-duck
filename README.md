@@ -1,1 +1,3 @@
-# hadron-dev-duck
+# Hadron Dev Duck
+
+Application to show off Hadron framework
